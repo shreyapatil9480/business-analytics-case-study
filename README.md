@@ -4,7 +4,8 @@
 
 This repository contains a **synthetic business dataset** and an accompanying Jupyter notebook designed to showcase core analytical skills relevant to **business analyst**, **program manager**, and **data analyst** roles. The project is organized as follows:
 
-* A **CSV dataset** (`data/business_data.csv`) simulating monthly business performance metrics across regions.
+* A **CSV dataset** (`data/bulating monthly business performance metrics across r
+* egions.
 * An **analysis notebook** (`analysis.ipynb`) that walks through exploratory data analysis (EDA), visualizations, and predictive models for revenue forecasting and profitability classification.
 * A `requirements.txt` file listing Python packages used in the notebook so you can easily reproduce the results.
 
@@ -62,6 +63,7 @@ source venv/bin/activate
 ```
 
 3. **Install dependencies:**
+
 
 ```bash
 pip install -r requirements.txt
